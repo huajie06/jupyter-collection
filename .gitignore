@@ -2,5 +2,5 @@
 *.DS_Store
 transcript*
 .ipynb_checkpoints
-
+*.db
 *.json
